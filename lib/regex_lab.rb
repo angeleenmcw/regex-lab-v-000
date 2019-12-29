@@ -1,9 +1,9 @@
 def starts_with_a_vowel?(word)
-"time to eat the ice cream".scan(/|D[aeiou])
+"time to eat the ice cream".scan(/|D[aeiou]/)
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
-
+"I do not like to underlying truth".scan(/)
 end
 
 def words_five_letters_long(text)
